@@ -44,6 +44,11 @@
 
 ### ✨ Highlights
 #### 🌟 Professional Experience
+
+- **Full-Stack Engineer** at **Shopdonation International** (Mar 2025 – Present)  
+  - Designed and developed scalable web applications using **Laravel (PHP)**, ensuring clean architecture and maintainable code.
+  - Integrated affiliate marketing networks through a **service-based architecture**, automating tracking and reporting
+
 - **Software Engineer** at **Quantech Services Pvt Ltd** (Feb 2021 – Nov 2024)  
   - Built scalable **.NET applications** with **C#** and **MVC architectures**.  
   - Integrated enterprise systems like **SharePoint**, **Microsoft Graph**, and **Xero**.  
