@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m a **Software Engineer** with **4 years** of experience in designing, developing, and deploying high-quality software solutions.  
+- 🔭 I’m a **Software Engineer** with **5 years** of experience in designing, developing, and deploying high-quality software solutions.  
 - 🌍 Currently based in **Tampere, Finland**.  
 - 🌱 I’m constantly learning about **cloud services**, **machine learning**, and **modern web development**.  
 - 💬 Ask me about **.NET**, **React.js**, **Azure**, and **SQL**.  
